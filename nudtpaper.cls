@@ -100,7 +100,7 @@
     \setCJKfamilyfont{kai}{KaiTi} % Kai
 }
 
-\newcommand{\installOTF}{%
+\newcommand{\installotf}{%
   \setmainfont{Times New Roman} % could be changed to "Times New Roman PS Std" !!
   \setsansfont{Arial}
   \setmonofont{Courier New}
@@ -152,9 +152,9 @@
 \installttf
 \fi
 
-\ifisotf
-\installotf
-\fi
+%\ifisotf
+%\installotf
+%\fi
 
 \ifisfz
 \installfz
