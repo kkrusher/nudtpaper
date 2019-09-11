@@ -152,9 +152,9 @@
 \installttf
 \fi
 
-%\ifisotf
-%\installotf
-%\fi
+\ifisotf
+\installotf
+\fi
 
 \ifisfz
 \installfz
