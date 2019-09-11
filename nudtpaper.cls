@@ -100,19 +100,19 @@
     \setCJKfamilyfont{kai}{KaiTi} % Kai
 }
 
-\newcommand{\installOTF}{%
+\newcommand{\installotf}{%
   \setmainfont{Times New Roman} % could be changed to "Times New Roman PS Std" !!
   \setsansfont{Arial}
   \setmonofont{Courier New}
-  \setCJKmainfont[BoldFont={fonts/ADOBEHEITISTD-REGULAR(V5.010).OTF},ItalicFont={fonts/ADOBEKAITISTD-REGULAR.OTF}]{fonts/ADOBEFANGSONGSTDL.OTF}
-  \setCJKsansfont{fonts/ADOBEHEITISTD-REGULAR(V5.010).OTF}
-  \setCJKmonofont{fonts/ADOBEKAITISTD-REGULAR.OTF}
-  \setCJKfamilyfont{song}{fonts/ADOBEFANGSONGSTDL.OTF}
-  \setCJKfamilyfont{hei}{fonts/ADOBEHEITISTD-REGULAR(V5.010).OTF}
-  \setCJKfamilyfont{fs}{fonts/ADOBEFANGSONGSTDL.OTF}
-  \setCJKfamilyfont{kai}{fonts/ADOBEKAITISTD-REGULAR.OTF}
-  \setCJKfamilyfont{li}{fonts/ADOBEKAITISTD-REGULAR.OTF}
-  \setCJKfamilyfont{you}{fonts/ADOBEKAITISTD-REGULAR.OTF}
+  \setCJKmainfont[BoldFont=ADOBEHEITISTD-REGULAR(V5.010).OTF,ItalicFont=ADOBEKAITISTD-REGULAR.OTF]{ADOBEFANGSONGSTDL.OTF}
+  \setCJKsansfont{ADOBEHEITISTD-REGULAR(V5.010).OTF}
+  \setCJKmonofont{ADOBEKAITISTD-REGULAR.OTF}
+  \setCJKfamilyfont{song}{ADOBEFANGSONGSTDL.OTF}
+  \setCJKfamilyfont{hei}{ADOBEHEITISTD-REGULAR(V5.010).OTF}
+  \setCJKfamilyfont{fs}{ADOBEFANGSONGSTDL.OTF}
+  \setCJKfamilyfont{kai}{ADOBEKAITISTD-REGULAR.OTF}
+  \setCJKfamilyfont{li}{ADOBEKAITISTD-REGULAR.OTF}
+  \setCJKfamilyfont{you}{ADOBEKAITISTD-REGULAR.OTF}
   \setCJKfamilyfont{cusong}{STZhongsong}
 }
 
