@@ -104,10 +104,10 @@
   \setmainfont{Times New Roman} % could be changed to "Times New Roman PS Std" !!
   \setsansfont{Arial}
   \setmonofont{Courier New}
-  \setCJKmainfont[BoldFont=ADOBEHEITISTD-REGULAR(V5.010).OTF,ItalicFont=ADOBEKAITISTD-REGULAR.OTF]{ADOBEFANGSONGSTDL.OTF}
+  \setCJKmainfont[BoldFont=ADOBEHEITISTD-REGULAR(V5.010).OTF,ItalicFont=ADOBEKAITISTD-REGULAR.OTF]{ADOBESONGSTD-LIGHT(V5.010).OTF}
   \setCJKsansfont{ADOBEHEITISTD-REGULAR(V5.010).OTF}
   \setCJKmonofont{ADOBEKAITISTD-REGULAR.OTF}
-  \setCJKfamilyfont{song}{ADOBEFANGSONGSTDL.OTF}
+  \setCJKfamilyfont{song}{ADOBESONGSTD-LIGHT(V5.010).OTF}
   \setCJKfamilyfont{hei}{ADOBEHEITISTD-REGULAR(V5.010).OTF}
   \setCJKfamilyfont{fs}{ADOBEFANGSONGSTDL.OTF}
   \setCJKfamilyfont{kai}{ADOBEKAITISTD-REGULAR.OTF}
